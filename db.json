@@ -1,0 +1,109 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "IphoneXR",
+      "year": 2020,
+      "img": "https://i2.rozetka.ua/goods/18549310/apple_mry42_images_18549310849.jpg",
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "name": "IphoneSE",
+      "year": 2020,
+      "img": "https://i8.rozetka.ua/goods/17801797/apple_iphone_se_64gb_white_images_17801797603.png",
+      "price": 9000
+    },
+    {
+      "id": 3,
+      "name": "Iphone7",
+      "year": 2020,
+      "img": "https://i1.rozetka.ua/goods/1757076/apple_iphone_7_plus_32gb_rose_gold_images_1757076595.jpg",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "name": "Iphone8",
+      "year": 2020,
+      "img": "https://i1.rozetka.ua/goods/2356298/apple_iphone_8_64gb_gold_images_2356298777.jpg",
+      "price": 6500
+    },
+    {
+      "id": 5,
+      "name": "Iphone11",
+      "year": 2020,
+      "img": "https://i8.rozetka.ua/goods/14906549/copy_apple_iphone_11_64gb_black_5dc0395884001_images_14906549561.jpg",
+      "price": 20000
+    },
+    {
+      "id": 6,
+      "name": "Iphone12",
+      "year": 2020,
+      "img": "https://i8.rozetka.ua/goods/20299808/245162293_images_20299808351.jpg",
+      "price": 30000
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "name": "Asus ROG Strix G15 G512LI-HN094",
+      "creator": "China",
+      "img": "https://i2.rozetka.ua/goods/19939709/asus_90nr0381_m01620_images_19939709691.jpg",
+      "price": 20500
+    },
+    {
+      "id": 2,
+      "name": "Lenovo IdeaPad S145-15AST",
+      "creator": "China",
+      "img": "https://i8.rozetka.ua/goods/18625879/copy_lenovo_81mx002tra_5ee0ab787330c_images_18625879669.jpg",
+      "price": 20000
+    },{
+      "id": 3,
+      "name": "Dell Inspiron 3593",
+      "creator": "China",
+      "img": "https://i2.rozetka.ua/goods/15649127/copy_dell_3593fi58s2mx230_lbk_5ded4a0d956ac_images_15649127824.jpg",
+      "price": 15000
+    },{
+      "id": 4,
+      "name": "Asus ROG Strix G15 G512LU-HN093",
+      "creator": "China",
+      "img": "https://i2.rozetka.ua/goods/19426218/copy_asus_90nr0381_m01640_5f29b738d2287_images_19426218067.jpg",
+      "price": 19700
+    },{
+      "id": 5,
+      "name": "Acer Aspire 7 A715-75G-57LR",
+      "creator": "China",
+      "img": "https://i2.rozetka.ua/goods/18290391/acer_nh_q87eu_006_images_18290391751.jpg",
+      "price": 13000
+    },{
+      "id": 6,
+      "name": "Huawei MateBook D 15",
+      "creator": "China",
+      "img": "https://i8.rozetka.ua/goods/19437916/huawei_53010tsy_images_19437916801.jpg",
+      "price": 21000
+    }
+  ],
+  "headphones": [
+    {
+      "id": 1,
+      "name": "Trust Lumen Illuminated Headset",
+      "img": "https://i2.rozetka.ua/goods/19694335/trust_22447_images_19694335045.jpg",
+      "price": 400
+    },{
+      "id": 2,
+      "name": "Promate Melody-BT",
+      "img": "https://i2.rozetka.ua/goods/10641424/promate_melody_bt_blue_images_10641424430.jpg",
+      "price": 500
+    },{
+      "id": 3,
+      "name": "Promate Waves White",
+      "img": "https://i2.rozetka.ua/goods/10641424/promate_waves_white_images_10641424886.jpg",
+      "price": 600
+    },{
+      "id": 4,
+      "name": "Defender Warhead G-160",
+      "img": "https://i2.rozetka.ua/goods/15316260/defender_64118_images_15316260184.png",
+      "price": 195
+    }
+  ]
+}
