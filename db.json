@@ -244,6 +244,16 @@
       ],
       "description": "Deskription of pizza"
     }
-
+  ],
+  "completedOrders": [
+    {
+      "id": "f175fa9f08af",
+      "pizzas": "Peperoni,Calabresa",
+      "name": "rtttt",
+      "address": "1234rtt",
+      "city": "werw",
+      "state": "asdas@gmail.com",
+      "phone": "+380 (55)-555-55-55"
+    }
   ]
 }
