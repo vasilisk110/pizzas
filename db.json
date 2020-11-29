@@ -1,109 +1,249 @@
 {
-  "phones": [
+  "meatPizza": [
     {
-      "id": 1,
-      "name": "IphoneXR",
-      "year": 2020,
-      "img": "https://i2.rozetka.ua/goods/18549310/apple_mry42_images_18549310849.jpg",
-      "price": 15000
+      "id": 11,
+      "name": "Paperoni with tomatos",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_mobile/2018/02/28/%D0%9F%D0%B5%D0%BF%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%B8_%D0%B8_%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B_300dpi-thumbnail-960x960-70.jpg",
+      "price": 20,
+      "sizes": [
+        "250g",
+        "500g",
+        "860g"
+      ],
+      "description": "Deskription of pizza"
     },
     {
-      "id": 2,
-      "name": "IphoneSE",
-      "year": 2020,
-      "img": "https://i8.rozetka.ua/goods/17801797/apple_iphone_se_64gb_white_images_17801797603.png",
-      "price": 9000
+      "id": 12,
+      "name": "Margarita",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 10,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     },
     {
-      "id": 3,
-      "name": "Iphone7",
-      "year": 2020,
-      "img": "https://i1.rozetka.ua/goods/1757076/apple_iphone_7_plus_32gb_rose_gold_images_1757076595.jpg",
-      "price": 5000
+      "id": 13,
+      "name": "Texas",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/03/%D0%A2%D0%B5%D1%85%D0%B0%D1%81_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 13,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     },
     {
-      "id": 4,
-      "name": "Iphone8",
-      "year": 2020,
-      "img": "https://i1.rozetka.ua/goods/2356298/apple_iphone_8_64gb_gold_images_2356298777.jpg",
-      "price": 6500
+      "id": 14,
+      "name": "Paperoni",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_mobile/2018/02/28/%D0%9F%D0%B5%D0%BF%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%B8_%D0%91%D0%BB%D1%8E%D0%B7_300dpi-thumbnail-960x960-70.jpg",
+      "price": 15,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     },
     {
-      "id": 5,
-      "name": "Iphone11",
-      "year": 2020,
-      "img": "https://i8.rozetka.ua/goods/14906549/copy_apple_iphone_11_64gb_black_5dc0395884001_images_14906549561.jpg",
-      "price": 20000
+      "id": 15,
+      "name": "Toni Paperoni",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%9F%D0%B5%D0%BF%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%B8_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 16,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     },
     {
-      "id": 6,
-      "name": "Iphone12",
-      "year": 2020,
-      "img": "https://i8.rozetka.ua/goods/20299808/245162293_images_20299808351.jpg",
-      "price": 30000
+      "id": 16,
+      "name": "Gavai",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%93%D0%B0%D0%B2%D0%B0%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 15.19,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 17,
+      "name": "Barbequ",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_mobile/2018/02/22/BBQ-thumbnail-960x960-70.jpg",
+      "price": 30,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 18,
+      "name": "Spici",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/03/%D0%A1%D0%BF%D0%B0%D0%B9%D1%81%D0%B8_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 12.50,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     }
   ],
-  "laptops": [
+  "firmaPizza": [
     {
-      "id": 1,
-      "name": "Asus ROG Strix G15 G512LI-HN094",
-      "creator": "China",
-      "img": "https://i2.rozetka.ua/goods/19939709/asus_90nr0381_m01620_images_19939709691.jpg",
-      "price": 20500
+      "id": 21,
+      "name": "Kantri",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%9A%D0%B0%D0%BD%D1%82%D1%80%D0%B8_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 15.50,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     },
     {
-      "id": 2,
-      "name": "Lenovo IdeaPad S145-15AST",
-      "creator": "China",
-      "img": "https://i8.rozetka.ua/goods/18625879/copy_lenovo_81mx002tra_5ee0ab787330c_images_18625879669.jpg",
-      "price": 20000
-    },{
-      "id": 3,
-      "name": "Dell Inspiron 3593",
-      "creator": "China",
-      "img": "https://i2.rozetka.ua/goods/15649127/copy_dell_3593fi58s2mx230_lbk_5ded4a0d956ac_images_15649127824.jpg",
-      "price": 15000
-    },{
-      "id": 4,
-      "name": "Asus ROG Strix G15 G512LU-HN093",
-      "creator": "China",
-      "img": "https://i2.rozetka.ua/goods/19426218/copy_asus_90nr0381_m01640_5f29b738d2287_images_19426218067.jpg",
-      "price": 19700
-    },{
-      "id": 5,
-      "name": "Acer Aspire 7 A715-75G-57LR",
-      "creator": "China",
-      "img": "https://i2.rozetka.ua/goods/18290391/acer_nh_q87eu_006_images_18290391751.jpg",
-      "price": 13000
-    },{
-      "id": 6,
-      "name": "Huawei MateBook D 15",
-      "creator": "China",
-      "img": "https://i8.rozetka.ua/goods/19437916/huawei_53010tsy_images_19437916801.jpg",
-      "price": 21000
+      "id": 22,
+      "name": "Vegeterian",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%BE%D0%B2%D0%BE%D1%87%D1%8D%D0%B2%D0%B0_%D1%84%D1%8D%D0%B5%D1%80%D0%B8%D1%8F_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 12,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 23,
+      "name": "Paparazzi",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/03/%D0%9F%D0%B0%D0%BF%D0%B0%D1%80%D0%B0%D1%86%D1%86%D0%B8_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 13.7,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 24,
+      "name": "Karri",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2020/04/01/Karri_Ananas1-min-thumbnail-960x960-70.jpg",
+      "price": 12.60,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 25,
+      "name": "Karbonara",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%B0%D1%80%D0%B0_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 17.50,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 26,
+      "name": "Bavarian",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%91%D0%B0%D0%B2%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_72dpi-min-min-thumbnail-960x960-70.jpg",
+      "price": 19,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     }
   ],
-  "headphones": [
+  "premiumPizza": [
     {
-      "id": 1,
-      "name": "Trust Lumen Illuminated Headset",
-      "img": "https://i2.rozetka.ua/goods/19694335/trust_22447_images_19694335045.jpg",
-      "price": 400
-    },{
-      "id": 2,
-      "name": "Promate Melody-BT",
-      "img": "https://i2.rozetka.ua/goods/10641424/promate_melody_bt_blue_images_10641424430.jpg",
-      "price": 500
-    },{
-      "id": 3,
-      "name": "Promate Waves White",
-      "img": "https://i2.rozetka.ua/goods/10641424/promate_waves_white_images_10641424886.jpg",
-      "price": 600
-    },{
-      "id": 4,
-      "name": "Defender Warhead G-160",
-      "img": "https://i2.rozetka.ua/goods/15316260/defender_64118_images_15316260184.png",
-      "price": 195
+      "id": 31,
+      "name": "Five Cheese",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%9F%D1%8F%D1%82%D1%8C_%D1%81%D1%8B%D1%80%D0%BE%D0%B2_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 12,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 32,
+      "name": "Fetta",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D1%88%D0%BF%D0%B8%D0%BD%D0%B0%D1%82%D1%84%D0%B5%D1%82%D0%B0_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 14,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 33,
+      "name": "Mitzza",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/04/%D0%9C%D0%B8%D1%86%D1%86%D0%B0_300dpi-min-thumbnail-960x960-70.jpg",
+      "price": 16,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 34,
+      "name": "Extraaaa",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2020/04/01/eXtravaganzza_slice1-min-thumbnail-960x960-70.jpg",
+      "price": 19.50,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 35,
+      "name": "Royal Cheesburger",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/03/Royal_Slice_retoch-min-min-thumbnail-960x960-70.jpg",
+      "price": 18.20,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
+    },
+    {
+      "id": 36,
+      "name": "Filadelfiya",
+      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/03/SalmonPhill-slicere-made-web-min-min-thumbnail-960x960-70.jpg",
+      "price": 19,
+      "sizes": [
+        "200g",
+        "500g",
+        "800g"
+      ],
+      "description": "Deskription of pizza"
     }
+
   ]
 }
