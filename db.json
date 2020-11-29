@@ -74,18 +74,6 @@
     },
     {
       "id": 17,
-      "name": "Barbequ",
-      "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_mobile/2018/02/22/BBQ-thumbnail-960x960-70.jpg",
-      "price": 30,
-      "sizes": [
-        "200g",
-        "500g",
-        "800g"
-      ],
-      "description": "Deskription of pizza"
-    },
-    {
-      "id": 18,
       "name": "Spici",
       "img": "https://media.dominos.ua/__sized__/menu/product_osg_image_category/2019/10/03/%D0%A1%D0%BF%D0%B0%D0%B9%D1%81%D0%B8_300dpi-min-thumbnail-960x960-70.jpg",
       "price": 12.50,
